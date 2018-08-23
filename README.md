@@ -2,10 +2,10 @@
 -----------------------------
 Stage 2 Notes:
 
-It meets all criteria to the best of my knowledge and testing except for the performance section
-My Lightout score is currently terrible for Performance. My report is available in the demo folder.
+It meets all criteria to the best of my knowledge and testing.
+My Lightout score screen capture is available in the demo folder: lighthousescores.png
 
-
+Demo Folder: shows the screen captures of the responsive design implementation.
 
 -------------------------------------
 Stage 1 Notes:
