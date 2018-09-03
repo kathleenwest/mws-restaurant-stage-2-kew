@@ -2,10 +2,12 @@
 -----------------------------
 Stage 2 Notes:
 
-It meets all criteria to the best of my knowledge and testing.
-My Lightout score screen capture is available in the demo folder: lighthousescores.png
+Project Overview
 
-Demo Folder: shows the screen captures of the responsive design implementation.
+For the Restaurant Reviews projects, I incrementally converted a static webpage to a mobile-ready web application. In Stage Two, I took the responsive, accessible design I built in Stage One and connect it to an external server. I used asynchronous JavaScript to request JSON data from the server. I also stored data received from the server in an offline database using IndexedDB, which created an app shell architecture. Finally, I optimized my site to meet performance benchmarks, which I tested using Lighthouse.
+
+LightHouse Performance: My Lightout score screen capture is available in the demo folder: lighthousescores.png
+Demo Folder: Shows the screen captures of the responsive design implementation and application features.
 
 -------------------------------------
 Stage 1 Notes:
