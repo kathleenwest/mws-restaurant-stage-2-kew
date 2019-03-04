@@ -1,5 +1,7 @@
 # mws-restaurant-stage-2-kew
 -----------------------------
+Project Blog Article: https://portfolio.katiegirl.net/2018/09/03/restaurant-reviews-app-stage-2/
+
 Stage 2 Notes:
 
 Project Overview
